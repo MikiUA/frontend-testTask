@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3c4edb1.css",
+    "main.js": "/static/js/main.384d190a.js",
+    "static/media/background.jpg": "/static/media/background.84fe819e94fe95b939fe.jpg",
+    "static/media/ApercuArabicPro-Regular.eot": "/static/media/ApercuArabicPro-Regular.a1fde9b0125a3449357f.eot",
+    "static/media/ApercuArabicPro-Regular.ttf": "/static/media/ApercuArabicPro-Regular.d96e62b0b9abc2e551fc.ttf",
+    "static/media/ApercuArabicPro-Medium.eot": "/static/media/ApercuArabicPro-Medium.2d13dc61a41b27ff7f44.eot",
+    "static/media/ApercuArabicPro-Light.eot": "/static/media/ApercuArabicPro-Light.ebdd063adaa2b9f63e77.eot",
+    "static/media/ApercuArabicPro-Medium.ttf": "/static/media/ApercuArabicPro-Medium.daa4faa71b0dacbfcfc1.ttf",
+    "static/media/ApercuArabicPro-Light.ttf": "/static/media/ApercuArabicPro-Light.f830de790b08ede1478c.ttf",
+    "static/media/ApercuArabicPro-Bold.eot": "/static/media/ApercuArabicPro-Bold.75c853dd8a737b185783.eot",
+    "static/media/ApercuArabicPro-Bold.ttf": "/static/media/ApercuArabicPro-Bold.79100e0efd79b5a3ecbb.ttf",
+    "static/media/ApercuArabicPro-Regular.woff": "/static/media/ApercuArabicPro-Regular.9e5cfe7ad055bc9bb902.woff",
+    "static/media/ApercuArabicPro-Medium.woff": "/static/media/ApercuArabicPro-Medium.6cd52262271665e6e640.woff",
+    "static/media/ApercuArabicPro-Bold.woff": "/static/media/ApercuArabicPro-Bold.a908777637bc270d9302.woff",
+    "static/media/ApercuArabicPro-Light.woff": "/static/media/ApercuArabicPro-Light.c4b71717a5a027524259.woff",
+    "static/media/ApercuArabicPro-Medium.woff2": "/static/media/ApercuArabicPro-Medium.d2bb7b85e5a341d412d9.woff2",
+    "static/media/ApercuArabicPro-Regular.woff2": "/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
+    "static/media/ApercuArabicPro-Bold.woff2": "/static/media/ApercuArabicPro-Bold.2c83a0bf912b01c85c45.woff2",
+    "static/media/ApercuArabicPro-Light.woff2": "/static/media/ApercuArabicPro-Light.9394d2363c54e9f5419a.woff2",
+    "index.html": "/index.html",
+    "main.b3c4edb1.css.map": "/static/css/main.b3c4edb1.css.map",
+    "main.384d190a.js.map": "/static/js/main.384d190a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c4edb1.css",
+    "static/js/main.384d190a.js"
+  ]
+}
