@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# A simple submit form for any website
+
+The working webpage with a Feedback form can be found at https://scintillating-bavarois-842849.netlify.app/
+<br>All the comments posted can be found at https://feedback-form-backend-mikiua.herokuapp.com/feedbacks
+<br>&emsp;(latter may not show up at the browser, but any client that can send GET requests will suffice)
+<br>&emsp;(The author of the application is not responsible for any offensive or inappropriate content that are stored in there;
+<br>&emsp;&nbsp; The connection is not and will never be moderated, and will shut down on the 28th November because of the Heroku policy changes)
+
+This is a simple feedback form attached to a backend api. It can be mounted to any project you have assuming your personal databases. The backend part as well as database are hosted on heroku.com, and the react application is hosted on netlify.com.
+
+All technologies used are React, Node.js (with express framework) and MySQL.
+
+<br><br>
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
