@@ -42,7 +42,7 @@ export default function Form({serverLink}) {
     // .then((res)=>res.json())
     .then((data)=>{
       console.log(data);
-      if (data.ok==true || data.status==200)  {
+      if (data.ok===true || data.status===200)  {
         setActiveStatus('successStatus');
         setStatusMessage(`Thank you for your feedback!`)
         setMsgMail('');setMsgName('');setMsgMsg('');
